@@ -78,9 +78,17 @@
 ## دمو و پیش نمایش پروژه
 #### برای دیدن دمو [اینجا](https://next-shoping-project.vercel.app/) را کلیک کنید
 
+| | | |
+|![](image/2.png)|![](image/3.png)|![](image/4.png)|
+|![](image/5.png)|![](image/6.png)|![](image/7.png)|
+|![](image/8.png)|![](image/9.png)|![](image/1.png)|
+|![](image/10.png)| | |
 
-![](image/2.png)![](image/3.png)![](image/4.png)![](image/5.png)![](image/6.png)![](image/7.png)![](image/8.png)![](image/9.png)![](image/1.png)![](image/10.png)
-
+<p align="center">
+  <img src="image/1.png" width="200"/>
+  <img src="image/2.png" width="200"/>
+  <img src="image/3.png" width="200"/>
+</p>
 ## 📢 راه‌های ارتباطی با من
 
 - 📞 شماره تماس: 09114759731
