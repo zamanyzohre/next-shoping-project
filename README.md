@@ -52,11 +52,14 @@
 </li>
 <li> استفاده از React Router برای مدیریت مسیرها (صفحه اصلی، دسته‌ بندی ها، سبد خرید، 404 و ...)
 </li>
+
 </p>
 
 ---
 
 ## تکنولوژی های استفاده شده در پروژه عبارتند از :
+
+
 <p dir="rtl" align="right">
 <ul>
 <li>Next.js</li>
@@ -69,14 +72,7 @@
 <li>Css</li>
 </ul>
 </p>
-- Next.js
-- Bootstrap
-- Node.js
-- React Hooks
-- React Router
-- Redux
-- Fetch Api
-- Css
+
 ---
 
 ## کتابخانه های استفاده شده
@@ -96,6 +92,7 @@
 ## دمو و پیش نمایش پروژه
 #### برای دیدن دمو [اینجا](https://next-shoping-project.vercel.app/) را کلیک کنید
 
+---
 
 <p>
   <img src="image/11.png" width="230"/>
@@ -110,6 +107,9 @@
   <img src="image/9.png" width="230"/>
   <img src="image/10.png" width="230"/>
 </p>
+
+---
+
 ## 📢 راه‌های ارتباطی با من
 
 - 📞 شماره تماس: 09114759731
@@ -117,6 +117,6 @@
 - ![واتساپ](https://img.icons8.com/color/24/whatsapp--v1.png) واتساپ:  [ارسال پیام](https://wa.me/989114759731)
 - ![تلگرام](https://img.icons8.com/?size=25&id=EWzVSK2hyV9H&format=png&color=000000) تلگرام: [ارسال پیام](https://t.me/ZohreZamany)
 
-<img src="https://img.shields.io/badge/just%20thrrr%20message-8A2BE2" />
-<img alt="Testspace tests count" src="https://img.shields.io/testspace/:metric/:org/:project/:space">
+
+
 
