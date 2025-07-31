@@ -8,7 +8,6 @@
 
 ## ![](https://img.icons8.com/?size=25&id=qbPAZjbNRPIS&format=png&color=000000) ویژگی های این پروژه
 
--> طراحی کامل با Next.js و ساختار کامپوننتی
 
 -> طراحی کامل با Next.js و ساختار کامپوننتی
 
