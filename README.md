@@ -79,7 +79,7 @@
 #### برای دیدن دمو [اینجا](https://next-shoping-project.vercel.app/) را کلیک کنید
 
 
-<p align="center">
+<p>
   <img src="image/1.png" width="250"/>
   <img src="image/3.png" width="250"/>
   <img src="image/3.png" width="250"/>
