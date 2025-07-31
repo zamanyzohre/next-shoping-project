@@ -9,6 +9,7 @@
 ## ![](https://img.icons8.com/?size=25&id=qbPAZjbNRPIS&format=png&color=000000) ویژگی های این پروژه
 
 <p dir="rtl" align="right">
+
 <li> طراحی کامل با Next.js و ساختار کامپوننتی
 </li>
 <li> استفاده از CSS و Bootstrap برای استایل‌دهی و چیدمان 
